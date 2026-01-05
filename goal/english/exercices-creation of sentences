@@ -1,8 +1,0 @@
--- Present Perfect / Present Perfect Continuous --
-We have been testing new functionality without interruption since Monday. - OR - We’ve been testing new functionality since Monday.
-I have been learning English since September.
-The bug has appeared since the last update. - OR- The bug has been present since the last update. (-the best for the Bug report).
-The bug has been appearing since the last update. - Грамматически верно, но в QA-английском звучит не совсем естественно. - has been appearing → звучит так, будто баг появляется и исчезает (обычно мы фиксируем факт существования бага).
-We have been working on this bug since this morning.
-  Use Present Perfect Continuous to describe ongoing processes.
-Use Present Perfect to state the existence or result of a bug.

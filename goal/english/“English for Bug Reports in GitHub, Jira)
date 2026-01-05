@@ -1,0 +1,50 @@
+## Present Perfect / Present Perfect Continuous (QA Context)
+
+### ✅ Correct usage
+
+**We have been testing new functionality since Monday.**  
+OR  
+**We’ve been testing new functionality since Monday.**
+
+✔ Used to describe an ongoing testing process that started in the past and continues now.
+
+---
+
+**I have been learning English since September.**
+
+✔ Correct when the learning process started in the past and is still ongoing.
+
+---
+
+**The bug has been present since the last update.**
+
+✔ Best option for bug reports  
+✔ Clearly states the existence of a bug  
+✔ Professional QA wording
+
+Alternative (acceptable):
+- **The bug has appeared since the last update.**
+
+---
+
+**We have been working on this bug since this morning.**
+
+✔ Correct for status updates  
+✔ Emphasizes ongoing investigation or fixing process
+
+---
+
+### ⚠️ Grammatically correct but not recommended in QA
+
+**The bug has been appearing since the last update.**
+
+⚠ Grammatically correct  
+⚠ Sounds like the bug appears and disappears  
+⚠ Not recommended for bug reports, because QA usually фиксирует факт существования бага
+
+---
+
+### 💡 QA Note
+
+- Use **Present Perfect Continuous** for ongoing processes (testing, working, learning)
+- Use **Present Perfect** to describe bug existence or result
