@@ -148,7 +148,7 @@
 
 ---
 
-### 💡 QA Notes
+### QA Notes
 
 - Be specific: avoid *“doesn’t work”*
 - Prefer clear, neutral, factual language
